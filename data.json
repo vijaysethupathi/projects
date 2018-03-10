@@ -1,0 +1,37 @@
+{
+  "basics":{
+    "photo":"vijay.jpg",
+    "name":"Shyamsaikrishna",
+    "phone":"9999999999",
+    "email":"shyamsaikrishna.ssk@gmail.com",
+    "address":"Hanuman Juntion,AP"
+
+
+},
+"education" :[{
+  "course":"B.Tech(computer science and engineering)",
+  "institute":"CR Reddy Engineering college",
+  "data":["2015-2019","75%"]
+  },
+  {
+    "course":"Inter(MPC)",
+    "institute":"Sri Chaitanya college",
+    "data":["2013-2015","94%"]
+  },
+  {
+    "course":"SSC",
+    "institute":"siddhartha vidyalaya",
+    "data":["2012-2013","88%"]
+  }
+],
+     "skills":[
+       {
+         "name":"Languages",
+         "data":["C","JAVA","PHP"]
+       },
+       {
+         "name":"OS",
+         "data":["Windows","Linux","Unix"]
+       }
+     ]
+   }
